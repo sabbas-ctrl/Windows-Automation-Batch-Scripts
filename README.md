@@ -2,7 +2,7 @@
 
 A collection of helpful and customizable Windows `.bat` scripts to automate routine developer workflows, save disk space, and log real-time battery performance — all crafted for productivity and ease of use.
 
-💡 This repo is open for personal use and contributions from fellow developers. May Allah ﷻ bless our efforts with barakah and benefit.
+💡 This repo is open for personal use and contributions from fellow developers.
 
 ---
 
@@ -198,10 +198,4 @@ You are free to use, modify, and distribute this code — just keep the attribut
 **Sabbas Ahmad**
 
 🧑‍💻 BSCS Student at Air University Islamabad  
-💼 XAF Developer at DSPAK  
 📍 Pakistan  
-🔗 GitHub: [sabbas-ctrl](https://github.com/sabbas-ctrl)
-
-> "اللهم بارك لنا في أعمالنا واجعلها خالصة لوجهك الكريم"
->
-> O Allah, bless our efforts and make them sincerely for
